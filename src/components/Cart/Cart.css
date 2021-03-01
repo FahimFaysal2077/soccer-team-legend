@@ -1,0 +1,22 @@
+
+.cart p{
+    color: #721bfd;
+    font-weight: 500;
+    font-weight: 900;
+    font-size: 30px;
+}
+.salary{
+    color: #fd1bb2;
+    font-weight: 500;
+    font-weight: 900;
+    font-size: 30px;
+}
+.cart h3{
+    color: rgb(233, 11, 11);
+}
+.total-budget {
+    color: #fd1bb2;
+}
+.player-selected{
+    color: black;
+}

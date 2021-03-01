@@ -1,0 +1,21 @@
+.banner img{
+    height:700px;
+    width: 100%;
+}
+.centered1 {
+    position: absolute;
+    top: 45%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: 900;
+    font-size: 4.75rem;
+  }
+  .centered2 {
+    position: absolute;
+    bottom: 175px;
+    left: 720px;
+    color: white;
+    font-weight: 700;
+    font-size: 12.5rem;
+  }

@@ -1,0 +1,91 @@
+[{
+    "id": 1,
+    "name": "Lionel Messi",
+    "image": "https://i.ibb.co/pxjm4RJ/player-01.jpg",
+    "salary": 92,
+    "email": "ojiggle0@cpanel.net"
+  }, {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "image": "https://i.ibb.co/S05gv8c/player-02.jpg",
+    "salary": 70,
+    "email": "cloade1@mayoclinic.com"
+  }, {
+    "id": 3,
+    "name": "Neymar Jr",
+    "image": "https://i.ibb.co/BNxYh2N/player-03.jpg",
+    "salary": 78,
+    "email": "cstrippling2@youku.com"
+  }, {
+    "id": 4,
+    "name": "Kylian Mbappe",
+    "image": "https://i.ibb.co/RhcJLxt/player-04.jpg",
+    "salary": 28,
+    "email": "shoyland3@adobe.com"
+  }, {
+    "id": 5,
+    "name": "Antoine Griezmann",
+    "image": "https://i.ibb.co/LhTw3B7/player-05.jpg",
+    "salary": 28,
+    "email": "gjuara4@ca.gov"
+  }, {
+    "id": 6,
+    "name": "Gareth Bale",
+    "image": "https://i.ibb.co/zfnHr92/player-06.jpg",
+    "salary": 23,
+    "email": "wminucci5@nature.com"
+  }, {
+    "id": 7,
+    "name": "Andres Iniesta",
+    "image": "https://i.ibb.co/C5vF7pX/player-07.jpg",
+    "salary": 35,
+    "email": "rchurchley6@unblog.fr"
+  }, {
+    "id": 8,
+    "name": "Alexis Sanchez",
+    "image": "https://i.ibb.co/6043qCp/player-08.jpg",
+    "salary": 34.4,
+    "email": "cvandalen7@angelfire.com"
+  }, {
+    "id": 9,
+    "name": "Philippe Coutinho",
+    "image": "https://i.ibb.co/TKDdJkH/player-09.jpg",
+    "salary": 33.6,
+    "email": "growlings8@barnesandnoble.com"
+  }, {
+    "id": 10,
+    "name": "Luis Suarez",
+    "image": "https://i.ibb.co/VBY234h/player-10.jpg",
+    "salary": 31.4,
+    "email": "mroseburgh9@furl.net"
+  }, {
+    "id": 11,
+    "name": "Gerard Pique",
+    "image": "https://i.ibb.co/ftsstMP/player-11.jpg",
+    "salary": 30.1,
+    "email": "wcurtaina@123-reg.co.uk"
+  }, {
+    "id": 12,
+    "name": "Mesut Ozil",
+    "image": "https://i.ibb.co/xX7BpDR/player-12.jpg",
+    "salary": 28.9,
+    "email": "bfeathersbyb@fema.gov"
+  }, {
+    "id": 13,
+    "name": "Hulk",
+    "image": "https://i.ibb.co/qB5WxKV/player-13.jpg",
+    "salary": 26.2,
+    "email": "sroundtreec@arstechnica.com"
+  }, {
+    "id": 14,
+    "name": "Paul Pogba",
+    "image": "https://i.ibb.co/PWM2T0z/player-14.jpg",
+    "salary": 26.1,
+    "email": "ryesenevd@163.com"
+  }, {
+    "id": 15,
+    "name": "Sergio Ramos",
+    "image": "https://i.ibb.co/4MpX5F0/player-15.png",
+    "salary": 25.8,
+    "email": "bisbelle@sohu.com"
+  }]

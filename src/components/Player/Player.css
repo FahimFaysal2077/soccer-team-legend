@@ -1,0 +1,47 @@
+.player{
+    display: flex;
+    border-bottom: 5px solid lightgray;
+    border-left: 5px solid lightgray;
+    border-top: 5px solid lightgray;
+    margin-bottom: 20px;
+}
+.player-name{
+    color: #721bfd;
+    font-weight: 500;
+    font-weight: 900;
+    font-size: 30px;
+}
+.main-button{
+    background-color: #D50A0A;
+    width: 170px;
+    height: 50px;
+    border: 1px solid rgba(2, 18, 27, 0.205);
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 400px;
+    margin-bottom: 100px;
+    color: white;
+    font-weight: 900;
+    font-size: 18px;
+    
+}
+.player img{
+    height: 400px;
+    width: 370px;
+}
+.text-align{
+    margin-left: 50px;
+}
+.player p{
+    color: #0b5d4c;
+    font-weight: 500;
+    font-weight: 600;
+    font-size: 20px;
+}
+.player h3{
+    color: #fd1bb2;
+    font-weight: 500;
+    font-weight: 900;
+    font-size: 30px;
+}
+
